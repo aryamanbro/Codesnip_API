@@ -95,6 +95,7 @@ app = FastAPI()
 
 origins = [
     "http://localhost:5173",
+    "https://codesnip-frontend-taupe.vercel.app" 
 ]
 
 app.add_middleware(
