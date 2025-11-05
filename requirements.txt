@@ -5,3 +5,4 @@ psycopg[binary]
 python-jose[cryptography]
 pwdlib[argon2]
 pydantic-settings
+python-multipart
